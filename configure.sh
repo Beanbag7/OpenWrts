@@ -13,3 +13,4 @@ echo "src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2.git;main"
 
 # iStore
 echo "src-git istore https://github.com/linkease/istore;main" >> feeds.conf.default
+echo 'src-git qmodem https://github.com/FUjr/QModem.git;main' >> feeds.conf.default
